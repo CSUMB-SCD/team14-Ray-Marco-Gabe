@@ -1,5 +1,9 @@
 Team Roster:
 
-Raymond Esteybar
-Marco Aguilera
-Gabriel Gaerlan
+				 name: Raymond Esteybar  
+                                hobby: Video Games, Gym, Watching Shows, Shopping
+  
+ something interesting about yourself: I really enjoy doing random things during class.
+                                       Those random things include making small things
+                                       over dramatic like pressing the keyboard and
+                                       reacting as if I just made an explosion.
