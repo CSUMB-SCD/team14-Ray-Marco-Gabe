@@ -12,3 +12,7 @@ Team Roster:
 name: Marco Aguilera
 hobby: video games, sports
 something interesting : I like to hunt for wild pigs and deer.
+
+*name: Gabe Gaerlan
+*hobby: I like to dance, gaming, watching shows, and I also like cars. 
+*something interesting about myself: I was in a dance group named choreology (only for the first season), and we performed in san jose. Great experience, and the team was great! Plus! we won first place. I also work at chopstix. I've been there for 6 years.
