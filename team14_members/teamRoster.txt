@@ -7,3 +7,8 @@ Team Roster:
                                        Those random things include making small things
                                        over dramatic like pressing the keyboard and
                                        reacting as if I just made an explosion.
+
+
+name: Marco Aguilera
+hobby: video games, sports
+something interesting : I like to hunt for wild pigs and deer.
